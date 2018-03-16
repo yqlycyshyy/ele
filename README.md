@@ -7,4 +7,7 @@ github.io的页面只支持静态资源，不具备其他运行环境。</br>
 `1.npm install` //安装依赖</br>
 `2.npm run dev` //服务端运行 访问 http://localhost:8080</br>
 `3.npm run build`  //项目打包 </br>
- ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+ ![image1](https://github.com/yqlycyshyy/ele/master/Effect_Image/effect_image1.png)
+ ![image2](https://github.com/yqlycyshyy/ele/master/Effect_Image/effect_image2.png)
+ ![image3](https://github.com/yqlycyshyy/ele/master/Effect_Image/effect_image3.png)
+ ![image4](https://github.com/yqlycyshyy/ele/master/Effect_Image/effect_image4.png)
